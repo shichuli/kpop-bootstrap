@@ -9,6 +9,7 @@ section {
     padding-bottom: 45px;
 }
 
+
 #header {
     background-color: #f4a7bb;
     border-radius: 0px 0px 100px 100px;
@@ -16,13 +17,13 @@ section {
     -moz-border-radius: 0px 0px 100px 100px;
 }
 
-/*.important {*/
-/*    padding: 0 !important;*/
-/*}*/
-
 .carousel-bp {
     padding-left: 0px !important;
     padding-right: 0px !important;
+}
+
+#carousel-img {
+    margin-bottom: -100px;
 }
 
 .play {
